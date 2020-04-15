@@ -1,0 +1,18 @@
+    .fit {
+            width : 1000px;
+            height: 100px;
+        }
+    .menu_icons{
+        width : 200px;
+        height: 200px;
+    }
+
+    .center {
+        display: block;
+        margin-left: 25%;
+        margin-right: auto;
+        width: 30%;
+        }
+
+
+
